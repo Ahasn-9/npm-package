@@ -1,0 +1,20 @@
+{
+  "name": "simple-calculator-util",
+  "version": "1.0.0",
+  "description": "A package that provide basic mathematical operations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahsan Mughal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahasn-9/npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ahasn-9/npm-package/issues"
+  },
+  "homepage": "https://github.com/Ahasn-9/npm-package#readme"
+}
